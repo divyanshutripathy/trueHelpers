@@ -4,4 +4,4 @@ A blockchain-based charity tracking application using Next.js, Thirdweb JS, Meta
 
 ## Deployment
 
-Deployed at [True Helpers](true-helpers.vercel.app )
+Deployed at [True Helpers](https://true-helpers.vercel.app )
